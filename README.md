@@ -1,9 +1,8 @@
 <h1> 🫂 Hi, I'm Lisa! </h1>
 
 I am currently... <br>
-💻 Exploring BA and PD, with an interest in ML. <br>
+💻 Exploring BA and PD, with an interest in ML <br>
 🔒 Trying to lock down an intership that aligns with my interests<br>
-<br>
 🎧 A professional playlist curator, cinephile, volleyballer and singer (only in the shower) <br>
 <br>
 <h2>Connect with Me</h2>
