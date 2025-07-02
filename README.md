@@ -8,7 +8,7 @@ I am currently... <br>
 http://linkedin.com/in/lisa-lim-171b83225
 <br>
 <h2>Language and Tools</h2>
-PHP, HTML, SQL, Python, Excel, Linux, Tableau
+PHP, HTML, SQL, Python, CSS, Excel, Linux, Tableau, AWS
 
 
 
