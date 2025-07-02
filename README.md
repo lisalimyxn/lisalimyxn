@@ -1,7 +1,7 @@
 <h1> 😊 Hi, I'm Lisa! </h1>
 
 I am currently... <br>
-💻 Exploring BA and PD, with an interest in ML <br>
+💻 Exploring BA and SE, with an interest in AI/ML <br>
 🎧 A professional playlist curator, cinephile, avid volleyball player <br>
 
 <h2>Connect with Me</h2>
