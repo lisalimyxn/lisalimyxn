@@ -2,7 +2,6 @@
 
 I am currently... <br>
 💻 Exploring BA and SE, with an interest in AI/ML <br>
-🎧 A professional playlist curator, cinephile, avid volleyball player <br>
 
 <h2>Connect with Me</h2>
 http://linkedin.com/in/lisa-lim-171b83225
